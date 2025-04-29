@@ -7,5 +7,3 @@ matplotlib
 streamlit
 scikeras
 nltk
-
-conda create -p venv3 python==3.11 -y
